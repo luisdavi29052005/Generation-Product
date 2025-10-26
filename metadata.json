@@ -1,0 +1,5 @@
+{
+  "name": "Product Shot Generator",
+  "description": "An AI-powered tool to generate 1 to 10 professional-quality product shots from a single reference image, using various camera angles and studio lighting setups.",
+  "requestFramePermissions": []
+}
